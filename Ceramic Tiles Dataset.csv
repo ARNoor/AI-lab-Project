@@ -1,0 +1,101 @@
+Material,Type,Size (mm),Width (mm),Height (mm),Thickness (mm),Color,Surface Treatment,Water Absorption (%),Water Absorption (modified) (%),Price (per sq. meter) $ ,Avg. Price $
+Porcelain Clay,Vitrified Tiles,1000 x 1000,1000,1000,10,,Glazed,<0.5,0.5,7.1-7.6,7.35
+Ceramic,Vitrified Tiles,600 x 600,600,600,10,Multicolor,Polished,<.1,0.1,2.8-4.8,3.8
+Ceramic,Vitrified Tiles,800 x 800,800,800,10,Multicolor,Polished,<.1,0.1,3.7-5,4.375
+Porcelain Clay,Vitrified Tiles,200 x 1200,200,1200,10,,Glazed,1.0-3.0,2,2.55-5,3.775
+Ceramic,Vitrified Tiles,200 x 1200,200,1200,10,,Glazed,3.0-6.0,2,2.55-5,3.775
+Porcelain Clay,,800 x 800,800,800,,,Polished,<0.5,0.5,7.6,7.6
+Porcelain,,800 x 800,800,800,10,Multicolor,Polished,<0.5,0.5,4.56,4.56
+Porcelain Clay,,1000 x 1000,1000,1000,10,,Polished,<0.5,0.5,7.1-7.6,7.35
+Porcelain,,800 x 800,800,800,10,Multicolor,Dull Surfaced,<0.5,0.5,5.8,5.8
+Porcelain,,800 x 800,800,800,,,Polished,<0.5,0.5,6.1,6.1
+Porcelain,,600 x 600,600,600,,Multicolor,Dull Surfaced,<0.5,0.5,2.9-3.2,3.05
+Porcelain,,200 x 1200,200,1200,,,Polished,<0.1,0.1,6.0-7.0,6.5
+Porcelain,,600 x 600,600,600,10,Multicolor,Polished,<0.1,0.1,2.8-4.8,3.8
+Porcelain,,600x600,600,600,10,Multicolor,Polished,<0.1,0.1,2.8-4.8,3.8
+Porcelain,,600x600,600,600,10,Multicolor,Polished,<0.5,0.5,2.8-4.8,3.8
+Porcelain,Matt Tiles,600x600,600,600,15,,Matt,<0.5,0.5,9.5-10.8,10.15
+Porcelain,,800x800,800,800,,,Polished,<0.5,0.5,7.6,7.6
+Porcelain Clay,Vitrified Tiles,1000*1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain Clay,,800x800,800,800,,,Polished,<0.5,0.5,6.1,6.1
+Ceramic,,400x800,400,800,,,Glazed,1.0-3.0,2,1,1
+Ceramic,Glazed Tiles,600x900,600,900,10,,Glazed,1.0-3.0,2,4.4-4.9,4.65
+Porcelain Clay,Matt Tiles,600x600,600,600,15,,Matt,0.5,0.5,9.5-10.8,10.15
+Porcelain,,1200x1800,1200,1800,9.5,Multicolor,Polished,"1.0-3,0",2,15.5-16.5,16.05
+Porcelain Clay,,800x800,800,800,,,Polished,0.5,0.5,7.6,7.6
+Ceramic,,400x800,400,800,10,Grey,Glazed,0.5-3.0,1.75,1,1
+Porcelain,,600x600,600,600,8,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain Clay,Matt Tiles,600x600,600,600,,,Matt,0.5,0.5,9.5-10.8,10.15
+Porcelain,,600x600,600,600,,Multicolor,Dull Surfaced,0.5,0.5,2.9-3.2,3.05
+Porcelain,,200x1200,200,1200,10,Multicolor,Polished,0.1,0.1,6.0-7.0,6.5
+Porcelain,,750x1500,750,1500,10,Multicolor,Polished,0.1,0.1,7-7.3,7.15
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Ceramic,,600x1200,600,1200,10,Multicolor,Polished,1,1,5.6,5.6
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,6.7-7,6.85
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.1,0.1,3.7-5,4.375
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Ceramic,,600x600,600,600,8,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Porcelain Clay,,800x800,800,800,,,Polished,0.5,0.5,6.55,6.55
+Porcelain,,200x1200,200,1200,10,Multicolor,Polished,0.1,0.1,6.0-7.0,6.5
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.1,0.1,4.56,4.56
+Porcelain Clay,Glazed Tiles,200x1200,200,1200,10,,Glazed,1.0-3.0,2,2.55-5,3.775
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Porcelain Clay,,800x800,800,800,,,Polished,0.5,0.5,6.1,6.1
+Porcelain,,600x600,600,600,,Multicolor,Dull Surfaced,0.5,0.5,2.9-3.2,3.05
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.5,0.5,3.7-5,4.35
+Porcelain,,1200x1800,1200,1800,9.5,Multicolor,Polished,1.0-3.0,2,15.5-16.5,16.05
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.55-4.8,3.675
+Porcelain,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain,,1200x1800,1200,1800,9.5,Multicolor,Polished,1.0-3.0,2,15.5-16.5,16.05
+Ceramic,,600x1200,600,1200,10,Multicolor,Polished,0.1,0.1,5.5,5.5
+Ceramic,,400x800,400,800,10,,Polished,.5-3,1.75,1,1
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.1,0.1,4.56,4.56
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Ceramic,,400x800,400,800,10,Natural,Polished,0.5-3,1.75,1,1
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain,,1200x1800,1200,1800,9.5,Multicolor,Polished,1.0-3.0,2,15.5-16.5,16.05
+Porcelain,,750x1500,750,1500,10,Multicolor,Polished,0.1,0.1,7-7.3,7.15
+Porcelain,,200x1200,200,1200,10,Multicolor,Polished,0.1,0.1,6.0-7.0,6.5
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,4.4-4.8,4.6
+Ceramic,,200x1200,200,1200,10,,Polished,0.1,0.1,6.0-7.0,6.5
+Porcelain Clay,Matt Tiles,600x600,600,600,15,,Porcelain,,,9.5-10.8,10.15
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Ceramic,,400x800,400,800,10,Natural,Polished,0.5-3,1.75,1,1
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Porcelain Clay,Matt Tiles,600x600,600,600,15,,Matt,0.5,0.5,9.5-10.8,10.15
+Porcelain,,800x800,800,800,10,Multicolor,Polished,<0.5,0.5,4.56,4.56
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain Clay,Glazed Tiles,200x1200,200,1200,10,,Glazed,1.0-3.0,2,2.55-5,3.775
+Porcelain,,200x1200,200,1200,10,Multicolor,Polished,0.1,0.1,6.0-7.0,6.5
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,6.7-7,6.85
+Ceramic,,600x1200,600,1200,10,Multicolor,Polished,0.1,0.1,5.5,5.5
+Porcelain Clay,Vitrified Tiles,200x1200,200,1200,10,,Glazed,1.0-3.0,2,2.55-5,3.775
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain,,750x1500,750,1500,10,Multicolor,Polished,0.1,0.1,7-7.3,7.15
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.5,0.5,3.7-5,4.375
+Ceramic,Glazed Tiles,600x900,600,900,10,,Glazed,1.0-3.0,2,4.4-4.9,4.65
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Ceramic,,400x800,400,800,10,,Polished,.5-3,1.75,1,1
+Porcelain Clay,Vitrified Tiles,1000*1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Ceramic,,600x600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain,,750x1500,750,1500,10,Multicolor,Polished,0.1,0.1,7-7.3,7.15
+Porcelain Clay,Vitrified Tiles,1000x1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Ceramic,,600x1200,600,1200,10,Multicolor,Polished,1,1,5.6,5.6
+Ceramic,,800x800,800,800,10,Multicolor,Polished,0.5,0.5,3.7-5,4.375
+Porcelain Clay,,1000x1000,1000,1000,10,,Polished,<0.5,0.5,7.1-7.6,7.35
+Porcelain,,600x600,600,600,,Multicolor,Dull Surfaced,0.5,0.5,2.9-3.2,3.05
+Ceramic,Glazed Tiles,600x900,600,900,10,,Glazed,1.0-3.0,1.75,4.4-4.9,4.65
+Porcelain,,750x1500,750,1500,10,Multicolor,Polished,0.1,0.1,7-7.3,7.15
+Porcelain Clay,,800 x 800,800,800,,,Polished,<0.5,0.5,7.6,7.6
+Porcelain Clay,Vitrified Tiles,1000 x 1000,1000,1000,11,,Glazed,1,1,6.7-7,6.85
+Porcelain,,600 x 600,600,600,,Multicolor,Dull Surfaced,0.5,0.5,2.9-3.2,3.05
+Ceramic,,800 x 800,800,800,10,Multicolor,Polished,0.5,0.5,3.7-5,4.375
+Porcelain Clay,Vitrified Tiles,1000 x 1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35
+Ceramic,,600 x 600,600,600,10,Multicolor,Polished,0.1,0.1,2.8-4.8,3.8
+Porcelain,,1200 x 1800,1200,1800,9.5,Multicolor,Polished,1.0-3.0,1.75,15.5-16.5,16.05
+Porcelain Clay,Vitrified Tiles,1000 x 1000,1000,1000,10,,Glazed,0.5,0.5,7.1-7.6,7.35

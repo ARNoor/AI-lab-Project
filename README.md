@@ -12,4 +12,4 @@ Artificial Intelligence Lab (CSE 4108) Project on Machine Learning - Fall 2020
 - Ceramic Tiles Dataset 
 - Documentation of the Dataset 
 - Predicting Tiles Price, a python code (project) file
-- A report on the project 
+- Report on the project 
